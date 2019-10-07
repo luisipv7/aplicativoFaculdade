@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Criador de times</string>
+    <string name="team_id">ID do time</string>
+    <string name="team_name">Nome do time</string>
+    <string name="txtNamePlayer">Joãozinho</string>
+    <string name="txtNumberShirt">Camisa 10</string>
+    <string name="title_activity_list__player">List_PlayerActivity</string>
+</resources>
